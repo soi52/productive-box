@@ -41,6 +41,7 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Edit the [environment variable](https://github.com/maxam2017/productive-box/blob/master/.github/workflows/schedule.yml#L17-L18) in `.github/workflows/schedule.yml`:
 
    - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/maxam2017/`**`9842e074b8ee46aef76fd0d493bae0ed`**.
+   - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/soi52/`**`d4a6e443b489d2b88c0b5975f646371e`**.
    - **TIMEZONE:** The timezone of your location, eg. `Asia/Taipei` for Taiwan, `America/New_York` for America in New York, etc.
 
 1. Go to the repo **Settings > Secrets**
